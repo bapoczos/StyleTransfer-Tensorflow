@@ -11,18 +11,19 @@ An implementation of [neural style][paper] written in TensorFlow with IPythonNot
 
 ## Examples
 
-![output](images/output_1-content.jpg)
-
 These were the input images used :
 
 ![input-content](images/1-content.jpg)
 
 ![input-style](images/1-style.jpg)
 
+This is the output:
+![output](images/output_1-content.jpg)
+
 ## details
 
 TensorFlow doesn't support [L-BFGS][l-bfgs] which is the original authors used.
-So I use [Adam][adam]. This may require a little bit more hyperparameter tuning to get nice results.
+So we use [Adam][adam]. This may require a little bit more hyperparameter tuning to get nice results.
 
 you can get Pre-trained VGG network by
 
