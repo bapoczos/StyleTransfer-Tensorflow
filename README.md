@@ -11,21 +11,13 @@ An implementation of [neural style][paper] written in TensorFlow with IPythonNot
 
 ## Examples
 
-![output](images/output_1-output.jpg)
+![output](images/output_1-content.jpg)
 
 These were the input images used :
 
 ![input-content](images/1-content.jpg)
 
-[Ulsan National Institute of Science and Technology][UNIST]
-
 ![input-style](images/1-style.jpg)
-
-[RAIN PRINCESS by Leonid Afremov][rain]
-
-<!--
-[T.C. Fedro. (1969). Cubist 9][style]   
--->
 
 ## details
 
