@@ -17,10 +17,10 @@ These were the input images used :
 
 ![input-style](images/1-style.jpg)
 
-This is the output:
+This is the output produced by the algorithm:
 ![output](images/output_1-content.jpg)
 
-## details
+## Details
 
 TensorFlow doesn't support [L-BFGS][l-bfgs] which is the original authors used.
 So we use [Adam][adam]. This may require a little bit more hyperparameter tuning to get nice results.
