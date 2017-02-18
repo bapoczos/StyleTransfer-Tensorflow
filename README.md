@@ -11,15 +11,15 @@ An implementation of [neural style][paper] written in TensorFlow with IPythonNot
 
 ## Examples
 
-![output](images/output_UNIST.jpg)
+![output](images/output_1-output.jpg)
 
 These were the input images used :
 
-![input-content](images/UNIST.jpg)
+![input-content](images/1-content.jpg)
 
 [Ulsan National Institute of Science and Technology][UNIST]
 
-![input-style](images/rain princess.jpg)
+![input-style](images/1-style.jpg)
 
 [RAIN PRINCESS by Leonid Afremov][rain]
 
